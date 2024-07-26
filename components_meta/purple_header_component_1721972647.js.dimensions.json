@@ -1,18 +1,19 @@
 {
     "component_name": "purple_header_component",
-    "id": "purple_header_component_1721972647.js",
+    "id": "purple_header_component_1721972647",
     "type": "containerComponent",
     "metadata": {},
-    "w": 12,
-    "h": 8,
-    "x": "100",
-    "y": "10",
-    "i": "__dropping-elem__",
+    "w": 8,
+    "h": 5,
+    "x": 0,
+    "y": 0,
+    "i": "3",
     "minW": 3,
     "maxW": 12,
     "minH": 1,
     "moved": false,
     "static": false,
     "isDraggable": true,
-    "isResizable": true
+    "isResizable": true,
+    "name": ""
 }
